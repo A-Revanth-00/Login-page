@@ -1,0 +1,48 @@
+.Login{
+    align-content: center;
+    text-align: center;
+    background: transparent;
+    border: rgb(96, 91, 91) 2px solid;
+    border-radius: 15px;
+    padding: 30px 40px 30px 40px;
+    backdrop-filter: blur(3px);
+}
+label{
+    position: relative;
+    bottom: 5px
+}
+input{
+    position: relative;
+    align-items: center;
+    align-content: center;
+}
+#username{
+      margin: 5px;
+}
+h1{
+    color: rgb(242, 235, 235);
+}
+lable{
+    color: rgb(255, 255, 255);
+}
+button{
+    position: relative;
+    margin: 15px;
+}
+#checkbox{
+    color: rgb(255, 255, 255);
+}
+body{
+    background-image: url(back.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 70px 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 550px;
+    
+}
+
